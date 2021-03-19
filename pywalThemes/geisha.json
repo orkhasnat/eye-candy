@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/weirs/Pictures/wallpaper/geisha.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0410",
+        "foreground": "#bbe4e3",
+        "cursor": "#bbe4e3"
+    },
+    "colors": {
+        "color0": "#0a0410",
+        "color1": "#B49169",
+        "color2": "#E3B17A",
+        "color3": "#617586",
+        "color4": "#CC3184",
+        "color5": "#61ABB1",
+        "color6": "#C4AD9F",
+        "color7": "#bbe4e3",
+        "color8": "#829f9e",
+        "color9": "#B49169",
+        "color10": "#E3B17A",
+        "color11": "#617586",
+        "color12": "#CC3184",
+        "color13": "#61ABB1",
+        "color14": "#C4AD9F",
+        "color15": "#bbe4e3"
+    }
+}
